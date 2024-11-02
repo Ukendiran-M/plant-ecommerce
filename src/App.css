@@ -111,7 +111,7 @@ button:disabled {
 .landing-page {
   text-align: center;
   padding: 50px;
-  background-image: url('assests/background.jpeg');
+  background-image: url('../public/assets/background.jpeg');
   background-size: cover;
   background-position: center;
   height: 100vh;
